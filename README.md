@@ -105,7 +105,8 @@ SPOTIFY_SECRET=your-spotify-secret
 ```  
 ##### Step 6.  
 Open the `liri.js` file work on the project. `liri.js` require the `dotenv,` `keys.js,` `axios,` `node-spotify-api` and `fs`.  
-![alt text](https://recordit.co/mAY3cdMPYw/400/400)
+![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/35282071/64069624-1f619300-cc02-11e9-90fa-8c787220d575.gif)
+
 
 ### FAQ/Troubleshoot  
 The switch statement which hold the different arguments from the user snd only run when user type the commands. All the responses are not available in APIs.
